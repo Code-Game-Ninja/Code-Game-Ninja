@@ -16,7 +16,6 @@ I'm a **Computer Science student** at Central University of Rajasthan, crafting 
 ---
 
 ## 🔥 Current Missions  
-✅ **Smart Attendance Register** – Automating attendance tracking with analytics 📊   
 💡 **Exploring AI & Web3** – Pushing boundaries 🚀  
 
 ---
