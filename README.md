@@ -8,9 +8,9 @@ I'm a **Computer Science student** at Central University of Rajasthan, crafting 
 
 ## 🚀 Tech Arsenal  
 🔹 **Languages:** C++, Python, JavaScript  
-🔹 **Frontend:** React.js, TailwindCSS  
+🔹 **Frontend:**  TailwindCSS   
 🔹 **Backend:** Node.js, Express.js  
-🔹 **Database:** MongoDB, MySQL  
+🔹 **Database:**  MySQL  
 🔹 **Tools & Platforms:** Git, VS Code, Linux  
 
 ---
