@@ -7,11 +7,10 @@ I'm a **Computer Science student** at Central University of Rajasthan, crafting 
 ---
 
 ## 🚀 Tech Arsenal  
-🔹 **Languages:** C++, Python, JavaScript  
+🔹 **Languages:** C++, Python, JavaScript, HTML, CSS
 🔹 **Frontend:**  TailwindCSS   
-🔹 **Backend:** Node.js, Express.js  
 🔹 **Database:**  MySQL  
-🔹 **Tools & Platforms:** Git, VS Code, Linux  
+🔹 **Tools & Platforms:** Git, VS Code
 
 ---
 
